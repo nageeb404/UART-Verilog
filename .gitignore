@@ -1,0 +1,12 @@
+# Vivado generated / cache directories
+.Xil/
+UART.cache/
+UART.hw/
+UART.ip_user_files/
+UART.sim/
+*.jou
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
